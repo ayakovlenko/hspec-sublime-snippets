@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:v} `shouldSatisfy` ${2:p}]]></content>
+	<tabTrigger>shouldSatisfy</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>Hspec: shouldSatisfy</description>
+</snippet>

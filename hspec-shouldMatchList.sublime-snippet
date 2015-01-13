@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:xs} `shouldMatchList` ${2:ys}]]></content>
+	<tabTrigger>shouldMatchList</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>Hspec: shouldMatchList</description>
+</snippet>

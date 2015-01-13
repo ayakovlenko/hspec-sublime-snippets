@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:list} `shouldContain` ${2:sublist}]]></content>
+	<tabTrigger>shouldContain</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>Hspec: shouldContain</description>
+</snippet>

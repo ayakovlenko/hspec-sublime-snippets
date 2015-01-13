@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pendingWith "${1:reason}"]]></content>
+	<tabTrigger>pendingWith</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>Hspec: pendingWith</description>
+</snippet>

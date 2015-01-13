@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:action} `shouldReturn` ${2:expected}]]></content>
+	<tabTrigger>shouldReturn</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>Hspec: shouldReturn</description>
+</snippet>
