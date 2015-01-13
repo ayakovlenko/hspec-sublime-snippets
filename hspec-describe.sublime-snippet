@@ -2,5 +2,5 @@
 	<content><![CDATA[describe "${1:function}" \$ do]]></content>
 	<tabTrigger>describe</tabTrigger>
 	<scope>source.haskell</scope>
-	<description>HSpec: describe</description>
+	<description>Hspec: describe</description>
 </snippet>

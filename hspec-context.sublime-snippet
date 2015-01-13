@@ -2,5 +2,5 @@
 	<content><![CDATA[context "${1:when}" \$ do]]></content>
 	<tabTrigger>context</tabTrigger>
 	<scope>source.haskell</scope>
-	<description>HSpec: context</description>
+	<description>Hspec: context</description>
 </snippet>
