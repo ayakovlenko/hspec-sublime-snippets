@@ -1,5 +1,8 @@
 <snippet>
-	<content><![CDATA[it "${1:does}" \$ do]]></content>
+	<content><![CDATA[
+it "${1:does}" \$ do
+	${2:pending}
+]]></content>
 	<tabTrigger>it</tabTrigger>
 	<scope>source.haskell</scope>
 	<description>Hspec: it</description>
