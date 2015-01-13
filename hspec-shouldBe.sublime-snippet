@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:actual} `shouldBe` ${2:expected}]]></content>
+	<tabTrigger>shouldBe</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>HSpec: shouldBe</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[it "${1:does}" \$ do]]></content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.haskell</scope>
+	<description>HSpec: it</description>
+</snippet>
